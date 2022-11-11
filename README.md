@@ -2,14 +2,21 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 
-
 - 🔭 I’m currently working on [Frontend Mentor](https://www.frontendmentor.io/)
-
 - 🌱 I’m currently learning **React.js and Node.js**
-
 - 💬 Ask me about **HTML5, CSS3, React.js**
-
 - 📫 How to reach me **nishinakrani@gmail.com**
+
+## My Values
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
+
+## Hobbies
+☕️ Espresso Enthusiast <br/>
+📕 Book Reader </br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
