@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Frontend Mentor](https://www.frontendmentor.io/)
 - 🌱 I’m currently learning **React.js and Node.js**
-- 💬 Ask me about **HTML5, CSS3, React.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
 - 📫 How to reach me **nishinakrani@gmail.com**
 
 ## My Values
