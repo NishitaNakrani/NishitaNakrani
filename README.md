@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishita Nakrani</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 - 🔭 I’m currently working on [Frontend Mentor](https://www.frontendmentor.io/)
