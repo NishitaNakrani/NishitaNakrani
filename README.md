@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on [Frontend Mentor](https://www.frontendmentor.io/)
 - 🌱 I’m currently learning **React.js and Node.js**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
 - 📫 How to reach me **nishinakrani@gmail.com**
