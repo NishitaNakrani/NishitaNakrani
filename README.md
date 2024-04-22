@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishita Nakrani</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 
-- 🌱 I’m currently learning **React.js and Node.js**
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
+- 🌱 I’m currently learning **django and Python**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Python**
 - 📫 How to reach me **nishinakrani@gmail.com**
 
 ## My Values
